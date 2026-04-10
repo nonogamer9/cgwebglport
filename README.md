@@ -3,7 +3,8 @@ This is a exciting port of the classic game Chicken Gun, now available for WebGL
 
 This version was meant to be hosted on websites like replit or render!
 
-URLS to play chicken gun:
-https://chickengun.onrender.com/
+URLS that are currently hosting chicken gun WEBGL port:
+https://chickengun.onrender.com/ (the official onrender link by me!)
 https://nonogamer9-youtube.itch.io/chicken-gun-webgl-port
 https://html-classic.itch.zone/html/17106950/Chicken%20Gun%20WEBGL%20Port%20New/index.html?v=1775746294
+https://nonogamer9.github.io/cgwebglport/ 
