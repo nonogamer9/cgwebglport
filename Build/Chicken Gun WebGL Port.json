@@ -1,0 +1,16 @@
+{
+"companyName": "nonogamer9",
+"productName": "Chicken Gun WEBGL Port",
+"dataUrl": "Chicken Gun WebGL Port.data.unityweb",
+"wasmCodeUrl": "Chicken Gun WebGL Port.wasm.code.unityweb",
+"wasmFrameworkUrl": "Chicken Gun WebGL Port.wasm.framework.unityweb",
+"asmCodeUrl": "Chicken Gun WebGL Port.asm.code.unityweb",
+"asmMemoryUrl": "Chicken Gun WebGL Port.asm.memory.unityweb",
+"asmFrameworkUrl": "Chicken Gun WebGL Port.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Chicken Gun WebGL Port.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
