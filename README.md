@@ -7,5 +7,6 @@ This version was meant to be hosted on websites like replit or render!
 URLs that are currently hosting chicken gun WEBGL port:
 * [https://chickengun.onrender.com/](https://chickengun.onrender.com/) (the official onrender link by me!)
 * [https://nonogamer9-youtube.itch.io/chicken-gun-webgl-port](https://nonogamer9-youtube.itch.io/chicken-gun-webgl-port)
-* [https://html-classic.itch.zone/html/17106950/Chicken%20Gun%20WEBGL%20Port%20New/index.html?v=1775746294](https://html-classic.itch.zone/html/17106950/Chicken%20Gun%20WEBGL%20Port%20New/index.html?v=1775746294)
+* [https://html-classic.itch.zone/html/17106950/Chicken%20Gun%20WEBGL%20Port%20New/index.html?v=1775746294](https://html-classic.itch.zone/html/17106950/Chicken%20Gun%20WEBGL%20Port%20New/index.html?v=1775746294) (FOR 1.0 DEMO)
+* [https://html-classic.itch.zone/html/17130540/Chicken%20Gun%20WebGL%20Port/index.html?v=1775934105](https://html-classic.itch.zone/html/17130540/Chicken%20Gun%20WebGL%20Port/index.html?v=1775934105) (FOR 1.0)
 * [https://nonogamer9.github.io/cgwebglport/](https://nonogamer9.github.io/cgwebglport/)
