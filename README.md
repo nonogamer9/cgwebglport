@@ -1,6 +1,6 @@
 # Chicken Gun WEBGL Port!
 
-This is a port of Chicken Gun for Unity WebGL, The Unity Version used is 2018.2.19f1 Because it works with older web browsers that supports WebGL 1 and asm.js.
+This is a port of the ChaloApps game Chicken Gun for Unity WebGL. The Unity Version used is 2018.2.19f1. Why? because it works with older web browsers that supports WebGL 1 and asm.js. This port plays completely offline due to PUN issues. (If you have websocket drivers for PUN Classic 1.92, please make an issue and send the download links)
 
 This version was meant to be hosted on websites like replit or render!
 
